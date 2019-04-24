@@ -1,0 +1,7 @@
+C:\GitHubRepos\DiccionarioGenerico\DiccionarioGenerico\DiccionarioGenerico\bin\Debug\DiccionarioGenerico.exe.config
+C:\GitHubRepos\DiccionarioGenerico\DiccionarioGenerico\DiccionarioGenerico\bin\Debug\DiccionarioGenerico.exe
+C:\GitHubRepos\DiccionarioGenerico\DiccionarioGenerico\DiccionarioGenerico\bin\Debug\DiccionarioGenerico.pdb
+C:\GitHubRepos\DiccionarioGenerico\DiccionarioGenerico\DiccionarioGenerico\obj\Debug\DiccionarioGenerico.csprojAssemblyReference.cache
+C:\GitHubRepos\DiccionarioGenerico\DiccionarioGenerico\DiccionarioGenerico\obj\Debug\DiccionarioGenerico.csproj.CoreCompileInputs.cache
+C:\GitHubRepos\DiccionarioGenerico\DiccionarioGenerico\DiccionarioGenerico\obj\Debug\DiccionarioGenerico.exe
+C:\GitHubRepos\DiccionarioGenerico\DiccionarioGenerico\DiccionarioGenerico\obj\Debug\DiccionarioGenerico.pdb
